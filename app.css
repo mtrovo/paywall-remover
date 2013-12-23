@@ -24,3 +24,7 @@ body {
       color: #555; }
       #main p a:hover {
         color: #888; }
+
+.separador {
+  text-align: center;
+  margin: 10px; }
