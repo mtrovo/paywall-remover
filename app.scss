@@ -33,7 +33,12 @@ body {
 	}
 }
 
-.separador {
-	text-align:center;
-	margin:10px;
+footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	img {
+		display:block;
+		margin:0 auto;
+	}
 }
