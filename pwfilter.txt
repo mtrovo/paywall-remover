@@ -1,3 +1,9 @@
+! Title: Paywall Filter BR
+! Last modified: 14 Feb 2014 15:30 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://mtrovo.github.com/paywall-remover/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+
 http://paywall.lancenet.com.br/*
 http://paywall.folha.uol.com.br/*
 http://www1.folha.uol.com.br/folha/furniture/paywall/*
