@@ -1,0 +1,3 @@
+http://paywall.lancenet.com.br/*
+http://paywall.folha.uol.com.br/*
+http://www1.folha.uol.com.br/folha/furniture/paywall/*
